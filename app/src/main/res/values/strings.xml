@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="loginText">Log in to continue</string>
+    <string name="emailHint">Enter your email</string>
+    <string name="passwordHint">Enter your password</string>
+    <string name="login">Log In</string>
+    <string name="forgotPass">Forgot Password</string>
+    <string name="newUserSignIn">New User! Want to sign in?</string>
+    <string name="newUser">New User</string>
+    <string name="niceToSeeU">Nice To See You Here</string>
+    <string name="signUp">Sign Up</string>
+    <string name="wantToLogin">Want to Login?</string>
+    <string name="dontWorry">Don\'t worry we\'re here </string>
+    <string name="recover">Click here to recover</string>
+    <string name="backToLogin">Go back to login screen</string>
+    <string name="logout">Log Out</string>
+    <string name="noteTitle">Enter your note title here</string>
+    <string name="noteContent">Enter your note content here</string>
+</resources>
